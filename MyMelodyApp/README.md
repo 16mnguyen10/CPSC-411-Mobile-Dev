@@ -15,6 +15,7 @@ Group Members: Michael Nguyen
   can also be used as a way to store a list of groceries or a list of whatever that needs to be put saved for later. This 
   program showcases as much as I've learned in Mobile Development as well as from outside sources on Swift and XCode.
   
+  
 **Installation & Running**
   1. Extract the .zip file into a folder or a suitable location
   2. Open with AutoLayoutIBApp.xcworkspace
