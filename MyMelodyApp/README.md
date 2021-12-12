@@ -8,7 +8,7 @@ Group Members: Michael Nguyen
 
 -------------------------------
 
-**Intro**
+**Overview**
 
   This program is designed to store a list of songs into a database using the SQLite library. Its main purpose is to serve
   as an app to store a song anywhere without the usage of a PC or WiFi, but is not limited to just songs. This application
