@@ -14,4 +14,6 @@ Intro
   
 Installation & Running
   1. Extract the .zip file into a folder or a suitable location
-  2. Click on 
+  2. Open with AutoLayoutIBApp.xcworkspace
+  3. Run by clicking on the run button in XCode
+  
