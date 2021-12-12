@@ -1,7 +1,9 @@
 --------------------------------
 
 CPSC-411 Project MyMelody
+
 Team Name: Kaguya (Cool team name)
+
 Group Members: Michael Nguyen
 
 -------------------------------
